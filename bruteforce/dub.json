@@ -1,0 +1,8 @@
+{
+	"name": "bruteforce",
+	"description": "カエサルシフトを総当りで解読",
+	"copyright": "Copyright © 2015, kotet",
+	"authors": ["kotet"],
+	"dependencies": {
+	}
+}

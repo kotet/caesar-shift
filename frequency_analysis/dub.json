@@ -1,0 +1,8 @@
+{
+	"name": "frequency_analysis",
+	"description": "A minimal D application.",
+	"copyright": "Copyright © 2015, kotet",
+	"authors": ["kotet"],
+	"dependencies": {
+	}
+}

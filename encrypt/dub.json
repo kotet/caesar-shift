@@ -1,0 +1,8 @@
+{
+	"name": "encrypt",
+	"description": "カエサルシフトで暗号化",
+	"copyright": "Copyright © 2015, kotet",
+	"authors": ["kotet"],
+	"dependencies": {
+	}
+}
